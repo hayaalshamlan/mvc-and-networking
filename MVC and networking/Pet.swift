@@ -1,10 +1,11 @@
 
 import Foundation
  
-struct Book: Codable {
+struct Pet: Codable {
     let id: Int
-    let title: String
-    let description: String
-    let price: Double
+    let name: String
+    let adopted: Bool
     let image: String
+    let age: Int
+    let gender: String
 }

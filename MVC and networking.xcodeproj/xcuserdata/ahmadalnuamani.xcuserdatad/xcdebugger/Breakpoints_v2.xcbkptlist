@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F3C03AC5-3521-4A3E-BF44-87FFE021673A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75FBB5C1-C733-45A0-BF91-67E6F41AA112"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC and networking/VC/InstructionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "InstructionsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "75FBB5C1-C733-45A0-BF91-67E6F41AA112 - 58f8f6b2fdb88967"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_and_networking.InstructionsViewController.instruction4.getter : Swift.String"
+                  moduleName = "MVC and networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmadalnuamani/Desktop/tasks/MVC%20and%20networking/MVC%20and%20networking/VC/InstructionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "75FBB5C1-C733-45A0-BF91-67E6F41AA112 - ac1ac71b3164f992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_and_networking.InstructionsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MVC_and_networking.InstructionsViewController"
+                  moduleName = "MVC and networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmadalnuamani/Desktop/tasks/MVC%20and%20networking/MVC%20and%20networking/VC/InstructionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "75FBB5C1-C733-45A0-BF91-67E6F41AA112 - 81af2108c987f0c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_and_networking.InstructionsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MVC_and_networking.InstructionsViewController&gt;"
+                  moduleName = "MVC and networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmadalnuamani/Desktop/tasks/MVC%20and%20networking/MVC%20and%20networking/VC/InstructionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "75FBB5C1-C733-45A0-BF91-67E6F41AA112 - ac1ac71b3164f831"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_and_networking.InstructionsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MVC_and_networking.InstructionsViewController"
+                  moduleName = "MVC and networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmadalnuamani/Desktop/tasks/MVC%20and%20networking/MVC%20and%20networking/VC/InstructionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "75FBB5C1-C733-45A0-BF91-67E6F41AA112 - 81af2108c987f166"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_and_networking.InstructionsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MVC_and_networking.InstructionsViewController&gt;"
+                  moduleName = "MVC and networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmadalnuamani/Desktop/tasks/MVC%20and%20networking/MVC%20and%20networking/VC/InstructionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
